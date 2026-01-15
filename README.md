@@ -23,6 +23,8 @@ Run the game:
 
 python minimax_chess.py
 
+![ezgif-85a483828eb06f](https://github.com/user-attachments/assets/5a3a2c26-747c-42b2-9d22-0a175342e874)
+
 
 You play as White.
 
@@ -38,10 +40,10 @@ Uses Minimax algorithm with Alpha-Beta pruning.
 Evaluation is based on material balance:
 
 Pawn = 1
-Knight/Bishop = 3
-Rook = 5
-![ezgif-85a483828eb06f](https://github.com/user-attachments/assets/5a3a2c26-747c-42b2-9d22-0a175342e874)
 
+Knight/Bishop = 3
+
+Rook = 5
 
 Queen = 9
 
